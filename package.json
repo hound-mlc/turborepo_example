@@ -22,6 +22,12 @@
   },
   "packageManager": "yarn@1.22.17",
   "dependencies": {
-    "dotenv": "^16.0.0"
+    "@babel/core": "^7.17.8",
+    "dotenv": "^16.0.0",
+    "eslint": "^8.11.0",
+    "next": "^12.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.6.2"
   }
 }
